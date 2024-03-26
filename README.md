@@ -1,2 +1,1 @@
-# UKNuclearEnergy
-Analysing monthly electricity production from Nuclear power, in GWh, in the UK from International Energy Agency (IEA) data [2010-2022]
+Jupyter notebook containing Python code that loads monthly electricity production data (2010-2022) from the International Energy Agency (IEA) and analyses nuclear power generation from UK. 
